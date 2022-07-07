@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FootballManager.Client/1.0.0": {
+        "dependencies": {
+          "FootballManager.Core.Data": "1.0.0",
+          "FootballManager.Core.Engines": "1.0.0"
+        },
+        "runtime": {
+          "FootballManager.Client.dll": {}
+        }
+      },
+      "FootballManager.Core.Data/1.0.0": {
+        "runtime": {
+          "FootballManager.Core.Data.dll": {}
+        }
+      },
+      "FootballManager.Core.Engines/1.0.0": {
+        "dependencies": {
+          "FootballManager.Core.Data": "1.0.0",
+          "FootballManager.Core.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "FootballManager.Core.Engines.dll": {}
+        }
+      },
+      "FootballManager.Core.Utilities/1.0.0": {
+        "runtime": {
+          "FootballManager.Core.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FootballManager.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootballManager.Core.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootballManager.Core.Engines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FootballManager.Core.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

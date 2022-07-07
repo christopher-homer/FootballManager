@@ -1,0 +1,30 @@
+C:\Users\chris\Source\Repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.deps.json
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Utilities.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Utilities.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.AssemblyInfo.cs
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.CopyComplete
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.deps.json
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Engines.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Utilities.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\bin\Debug\netstandard2.0\FootballManager.Core.Utilities.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.AssemblyInfo.cs
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.csproj.CopyComplete
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Engines\obj\Debug\netstandard2.0\FootballManager.Core.Engines.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hn+CeaUu6nzfetWkdbbxQeQXUpWCDX8Ivq9zgO56XI61ZMdv+oEiPcwvFz57e5CkUxw1p90IGlq/oppzOnTgLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\source\\repos\\FootballManager\\src\\FootballManager.Core.Engines\\FootballManager.Core.Engines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

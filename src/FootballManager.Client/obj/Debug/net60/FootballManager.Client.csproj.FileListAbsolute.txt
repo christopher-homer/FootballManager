@@ -1,0 +1,44 @@
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.exe
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.deps.json
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.runtimeconfig.json
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Utilities.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Engines.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Utilities.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.AssemblyInfo.cs
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.CopyComplete
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\refint\FootballManager.Client.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.genruntimeconfig.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Client\obj\Debug\net60\ref\FootballManager.Client.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.exe
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.deps.json
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.runtimeconfig.json
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Client.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Engines.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Utilities.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Engines.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\bin\Debug\net60\FootballManager.Core.Utilities.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.AssemblyInfo.cs
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.csproj.CopyComplete
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\refint\FootballManager.Client.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\FootballManager.Client.genruntimeconfig.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Client\obj\Debug\net60\ref\FootballManager.Client.dll

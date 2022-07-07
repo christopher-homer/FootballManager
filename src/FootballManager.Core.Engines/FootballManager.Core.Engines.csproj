@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootballManager.Core.Data\FootballManager.Core.Data.csproj" />
+    <ProjectReference Include="..\FootballManager.Core.Utilities\FootballManager.Core.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

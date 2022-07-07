@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net60</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootballManager.Core.Data\FootballManager.Core.Data.csproj" />
+    <ProjectReference Include="..\FootballManager.Core.Engines\FootballManager.Core.Engines.csproj" />
+  </ItemGroup>
+
+</Project>

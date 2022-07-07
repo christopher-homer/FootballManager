@@ -1,0 +1,20 @@
+C:\Users\chris\Source\Repos\Football Manager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.deps.json
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.AssemblyInfo.cs
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\Football Manager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.deps.json
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\bin\Debug\netstandard2.0\FootballManager.Core.Data.pdb
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.AssemblyInfo.cs
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.dll
+C:\Users\chris\source\repos\FootballManager\src\FootballManager.Core.Data\obj\Debug\netstandard2.0\FootballManager.Core.Data.pdb
