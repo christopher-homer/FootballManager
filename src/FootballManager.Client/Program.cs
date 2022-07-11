@@ -27,6 +27,8 @@ namespace FootballManager.Client
                 else
                     draws++;
 
+                Console.WriteLine($"{t1.Name} {result.Team1Score} : {result.Team2Score} {t2.Name}");
+
             }
 
             Console.WriteLine($"T1 Wins %: {Math.Round(t1Wins / 100m, 2)}");
