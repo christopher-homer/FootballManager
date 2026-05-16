@@ -173,7 +173,7 @@ namespace FootballManager.Core.Engines.Match
             }
             else if (offensivePotential <= 100)
             {
-                zeroGoalWeighting = 10;
+                zeroGoalWeighting = 9;
                 oneGoalWeighting = 15;
                 twoGoalWeighting = 20;
                 threeGoalWeighting = 25;
